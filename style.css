@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  main {
+    display: flex;
+  }
+  
+  .video-player {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  .sidebar {
+    width: 30%;
+    padding: 20px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  li {
+    width: 33.33%;
+    padding: 10px;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+  }
+  
